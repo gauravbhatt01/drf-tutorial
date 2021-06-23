@@ -1,2 +1,2 @@
 # drf-tutorial
-how to API in DRF
+How to make an REST based API using Django Rest Framework
